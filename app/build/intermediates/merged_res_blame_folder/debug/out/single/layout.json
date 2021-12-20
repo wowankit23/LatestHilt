@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\MobileProgarmming\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item_album.xml",
+        "source": "D:\\MobileProgarmming\\app\\src\\main\\res\\layout\\list_item_album.xml"
+    },
+    {
+        "merged": "D:\\MobileProgarmming\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item_photos.xml",
+        "source": "D:\\MobileProgarmming\\app\\src\\main\\res\\layout\\list_item_photos.xml"
+    },
+    {
+        "merged": "D:\\MobileProgarmming\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\MobileProgarmming\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MobileProgarmming\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "D:\\MobileProgarmming\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\MobileProgarmming\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "D:\\MobileProgarmming\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\MobileProgarmming\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item_user.xml",
+        "source": "D:\\MobileProgarmming\\app\\src\\main\\res\\layout\\list_item_user.xml"
+    },
+    {
+        "merged": "D:\\MobileProgarmming\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_profile.xml",
+        "source": "D:\\MobileProgarmming\\app\\src\\main\\res\\layout\\user_profile.xml"
+    }
+]
